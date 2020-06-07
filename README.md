@@ -5,9 +5,4 @@
 <p>As shown in the chart below, May is the month of the year when the most accomplished campaigns have started, while the worst time to start a new campaign is December.</p>
 ![Chart 1](Capture1.PNG)
 <p>Failed Kickstarter campaigns had fundraising goals of 10 th USD, while the average amount of goal for successful campaigns was 5 th USD. The amount of goal of average successful campaign should be an indicator for Louise on how much money to ask.</p>
-1. Natalia
-1. Brian
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+
